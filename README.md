@@ -66,6 +66,6 @@ Libs
 - https://maplibre.org/
 - https://leafletjs.com/
 
-
-## Templating
+## Templating & Miscellaneous
 - https://github.com/hmpl-language
+- https://markojs.com/
