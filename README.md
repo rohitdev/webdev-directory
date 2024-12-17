@@ -25,6 +25,71 @@ Libs
 - https://muuri.dev/
 - https://masonry.desandro.com/
 - https://gradienty.codes/animations
+- https://bulma.io/
+- https://get.foundation/
+- https://getuikit.com/
+- https://github.com/amazeui/amazeui
+- https://picocss.com/
+- https://jonathanharrell.github.io/hiq/
+- https://minstyle.io/
+- https://mincss.com/
+- https://developer.microsoft.com/en-us/fluentui#/
+- https://kbrsh.github.io/wing/
+- https://getmobicss.com/
+- https://andhart.github.io/bijou/
+- https://vladocar.github.io/SMART-CSS-GRID/
+- https://avalanche.oberlehner.net/
+- https://www.buildwithboba.com/
+- https://www.getpapercss.com/
+- https://sass-basis.github.io/
+- https://aioneframework.com/
+- https://www.luxacss.com/
+- https://tachyons.io/
+- https://developer.blackbaud.com/skyux/
+- https://moarwick.github.io/minithematiq/
+- https://github.com/slavanga/baseguide
+- https://www.blazeui.com/
+- https://milligram.io/
+- https://vitalcss.com/
+- https://www.furtive.co/
+- https://cardinalcss.com/
+- https://picturepan2.github.io/spectre/
+- https://www.cutestrap.com/
+- https://aozora.github.io/bootmetro/
+- https://websemantics.github.io/themeblr/
+- https://picnicss.com/
+- https://clarity.design/
+- https://spiderpig86.github.io/Cirrus/
+- https://vanillaframework.io/
+- https://turretcss.com/
+- https://fusioncss.com/
+- https://bojler.slicejack.com/
+- https://labelle.github.io/evolution/
+- https://uskin.github.io/
+- https://web-grid.webjeda.com/
+- https://minicss.us/
+- https://unnamed.smakosh.com/
+- https://jenil.github.io/chota/
+- http://www.framycss.org/#/
+- https://eui.elastic.co/#/
+- https://shakrmedia.github.io/petal/
+- https://icalialabs.github.io/furatto/
+- https://www.oddbird.net/susy/
+- https://shoelace.style/
+- https://primer.style/
+- https://getbuttercake.com/
+- https://danmalarkey.github.io/schema/
+- https://responsivebp.com/
+- http://ink.sapo.pt/
+- http://getskeleton.com/
+- http://www.yaml.de/
+- https://semantic-ui.com/
+- https://concisecss.com/
+- https://www.knacss.com/
+- https://ntim.me/material-framework/#introduction
+- https://developer.blackbaud.com/skyux/
+- https://borderliner.github.io/Meshki/
+- 
 
 ## JS Grid
 - https://gridstackjs.com/
@@ -32,6 +97,9 @@ Libs
 ## Resources
 - https://learncssgrid.com/
 - https://html5boilerplate.com/
+
+## Dashboard
+- https://cssauthor.com/dashboard-frameworks/
 
 
 ## JS Graph Libraries
@@ -69,3 +137,7 @@ Libs
 ## Templating & Miscellaneous
 - https://github.com/hmpl-language
 - https://markojs.com/
+
+## JS frameworks
+- https://alpinejs.dev/
+- https://htmx.org/
