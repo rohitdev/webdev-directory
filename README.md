@@ -143,3 +143,9 @@ Libs
 ## JS frameworks
 - https://alpinejs.dev/
 - https://htmx.org/
+
+
+
+## react 
+
+https://github.com/reduxjs/redux-toolkit
