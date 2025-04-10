@@ -1,0 +1,2 @@
+- File name conventions : https://vaadin.com/docs/latest/hilla/guides/routing
+- @BrowserCallable to generate TS endpoint code
