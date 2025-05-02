@@ -36,3 +36,8 @@
 - Advanced React: Custom Hooks - https://www.codecademy.com/learn/learn-advanced-react/modules/advanced-react-custom-hooks/cheatsheet
 - Learn React Router v6 - https://www.codecademy.com/learn/learn-react-router/modules/learn-react-router/cheatsheet
 - Learn React.js: Part II - https://www.codecademy.com/learn/react-102/modules/react-programming-patterns/cheatsheet
+
+
+
+
+Rohitdev Kulshrestha (aka RD)  is a versatile technologist skilled in developing SaaS applications, enterprise solutions, appliances, desktop applications, and system management tools. He is driven by a passion for fostering a high-performing organization, promoting results-oriented innovation, and elevating quality and customer satisfaction. He is adept at defining engineering tech roadmaps to tackle evolving business challenges, refactoring architectures, and scaling applications.Held diverse leadership roles, including manager of managers, engineering manager, and architect.

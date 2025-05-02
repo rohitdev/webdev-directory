@@ -50,7 +50,7 @@ https://usehooks.com/
 https://www.react-hook-form.com/
 
 
-### CSS in JS 
+### CSS in JS
 https://linaria.dev/
 https://panda-css.com/
 
