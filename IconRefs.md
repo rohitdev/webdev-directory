@@ -5,3 +5,6 @@
 - https://fonts.google.com/icons?icon.set=Material+Symbols
 - https://fontawesome.com/icons
 - https://simpleicons.org/
+- https://lucide.dev/
+
+https://iconify.design/
